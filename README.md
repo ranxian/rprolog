@@ -13,7 +13,7 @@ You'll see prompt start with `> ?-`, this is a prompt and then you can execute y
 
 ## Example
 ```
-ruby prolog1.rb family.pl
+% ruby prolog1.rb family.pl
 > ?- grandmother(alice, paul).
 NO.
 > ?- grandmother(alice, Who).
